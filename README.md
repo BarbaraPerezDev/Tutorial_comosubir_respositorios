@@ -2,7 +2,7 @@
 La forma más facíl de subir repositoros a Github desde git.
 
 1. **git init**
-2. **git remote add origin "URL repo" (Este copiarlo desde e github)**
+2. **git remote add origin "URL repo" (Este copiarlo desde github)**
 ![Imagen1 0](https://user-images.githubusercontent.com/115905949/220139833-e5443ce1-3211-402d-8bf2-df13eb97ad1c.jpg)
 3. **git status**
 
