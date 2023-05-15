@@ -14,7 +14,7 @@ La forma más facíl de subir repositoros a Github desde git.
 
 6.  **git status**
 
-7. **git add .** (añade un cambio del directorio de trabajo en el entorno de ensayo)
+7. **git add .** (prepara todos los archivos que se encuentran en el respositorio local para subirlos al repositorio remoto, el punto indica que se preparen todos los archivos que estan en el repositorio)
 
 8. **git status**
 
