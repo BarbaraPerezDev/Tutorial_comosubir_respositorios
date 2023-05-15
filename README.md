@@ -4,7 +4,7 @@ La forma más facíl de subir repositoros a Github desde git.
 (Recuerda que debe estar configurado el gitbash con tu identidad git config user.name "nombreUsuario" //agrega nombre de usuario y git user.email "nombreUsuariogmail.com" //agrega nuestro email)
 
 1. **git init** (es para inicializar la carpeta del repositorio local)
-2. **git remote add origin "URL repo" (Este copiarlo desde e github)** (le asigna el respositorio remoto)
+2. **git remote add origin "URL repo"** (Este copiarlo desde e github)** (le asigna el respositorio remoto)
 ![Imagen1 0](https://user-images.githubusercontent.com/115905949/220139833-e5443ce1-3211-402d-8bf2-df13eb97ad1c.jpg)  
 3. **git status** (verficar que se haya subido y el estado del mismo)
 
